@@ -1,8 +1,11 @@
+//Customize whitelist by onewayticket255
+let whitelist=['追番','推荐','直播','热门','影视']
+
 let body = $response.body
 body=JSON.parse(body)
 
 body['data']['tab'].forEach((element, index) => {
-if(!(["追番","推荐","直播","热门","影视"].includes(element["name"]))) body['data']['tab'].splice(index,1)  
+if(!(whitelist.includes(element['name']))) body['data']['tab'].splice(index,1)  
 });
 
 body['data']['bottom'].forEach((element, index)=> {
@@ -11,6 +14,5 @@ body['data']['bottom'].forEach((element, index)=> {
     }
 })
 
-delete body['data']['top']
 body=JSON.stringify(body)
 $done({body}) 
