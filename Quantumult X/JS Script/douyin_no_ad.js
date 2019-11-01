@@ -60,5 +60,5 @@ if (obj.aweme_list) {
 }
 
 /**
- * @supported F3F1280E
+ * @supported F3F1280E 44243A07
  */

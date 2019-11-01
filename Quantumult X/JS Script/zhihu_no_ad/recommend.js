@@ -9,5 +9,5 @@ body=JSON.stringify(body)
 $done({body})
 
 /**
- * @supported F3F1280E
+ * @supported F3F1280E 44243A07
  */
