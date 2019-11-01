@@ -10,3 +10,7 @@ body['data'].forEach((element, index)=> {
 })
 body=JSON.stringify(body)
 $done({body})
+
+/**
+ * @supported F3F1280E
+ */

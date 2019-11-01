@@ -58,3 +58,7 @@ if (obj.aweme_list) {
 } else {
   $done({body});
 }
+
+/**
+ * @supported F3F1280E
+ */

@@ -186,3 +186,8 @@ function is_timeline_ad(mblog) {
 function is_timeline_likerecommend(title) {
     return title && title.type && title.type == "likerecommend" ? true : false;
 }
+
+
+/**
+ * @supported F3F1280E
+ */
