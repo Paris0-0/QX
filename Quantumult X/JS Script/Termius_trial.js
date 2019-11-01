@@ -12,3 +12,7 @@ obj.trial.is_active=true;
 
 body = JSON.stringify(obj); 
 $done({body});
+
+/**
+ * @supported F3F1280E
+ */
