@@ -6,5 +6,5 @@ obj.advertisement_info = [];
 $done({body: JSON.stringify(obj)}); 
 
 /**
- * @supported F3F1280E 44243A07
+ * @supported F3F1280E2817 44243A07
  */
