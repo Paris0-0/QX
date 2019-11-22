@@ -15,6 +15,7 @@ const path14 = "/cardlist";
 const path15 = "/statuses/video_timeline";
 const path16 = "/page";
 const path17 = "/statuses/friends_timeline";
+const path18 = "/!/photos/pic_recommend_status";
 
 const url = $request.url;
 var body = $response.body;
@@ -56,7 +57,8 @@ if (url.indexOf(path4) != -1) {
     body = JSON.stringify(obj);
 }
 
-if (url.indexOf(path5) != -1) {
+if (url.indexOf(path5) != -1 ||
+    url.indexOf(path18) != -1) {
     let obj = JSON.parse(body);
     obj.data = {};
     body = JSON.stringify(obj);
@@ -147,21 +149,10 @@ function filter_timeline_cards(cards) {
                         if (is_timeline_ad(card_group_item.mblog)) card_group.splice(i, 1);
                     } else if (card_type && card_type == 118) {
                         card_group.splice(i, 1);
-                    } else if (card_type && card_type == 4) {
-                        if (card_group_item.promotion) card_group.splice(i, 1);
                     } else if (card_type && card_type == 42) {
                         if (card_group_item.desc == '\u53ef\u80fd\u611f\u5174\u8da3\u7684\u4eba') {
                             cards.splice(j, 1);
                             break;
-                        }
-                    } else if (card_type && card_type == 17) {
-                        let group = card_group_item.group;
-                        if (group && group.length > 0) {
-                            let k = group.length;
-                            while (k--) {
-                                let group_item = group[k];
-                                if (group_item.promotion) group.splice(k, 1);
-                            }
                         }
                     }
                 }
