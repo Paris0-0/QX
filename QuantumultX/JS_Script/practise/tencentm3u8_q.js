@@ -3,6 +3,6 @@ var body = $response.body;
    let pattern = /http:\/\/\d+.+?\.m3u8/g;
    let path = body.match(pattern);
    let url = path[0].replace("http","nplayer-http");
-   url ="jsbox复制链接\njsbox://run?name=tencentm3u8.js&location=icloud&m3u8="+path[0] +"\n\nNplayer打开：\n" + url ;
+   url ="jsbox复制链接\njsbox://run?name=tencentm3u8_b.js&location=icloud&m3u8="+path[0] +"\n\nNplayer打开：\n" + url ;
 $notify("已捕获到该视频m3u8地址", "", url);
 // console.log(url)
