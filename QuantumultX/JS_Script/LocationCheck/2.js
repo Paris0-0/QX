@@ -26,7 +26,7 @@ var obj = JSON.parse(body);
 
 var title =flags.get(obj['countryCode']) + ' '+ obj['country']+'，'+obj['continent'];
 
-var subtitle = ISP_ValidCheck(obj['org'],obj['isp'])+'※'+ obj['regionName']+ (obj['regionName']!=""? ',':'') +City_ValidCheck(obj['city']);
+var subtitle = obj['regionName']+ (obj['regionName']!=""? ',':'') +City_ValidCheck(obj['city']) +'-'+ ISP_ValidCheck(obj['org'],obj['isp']);
 
 var ip = obj['query'];
 
