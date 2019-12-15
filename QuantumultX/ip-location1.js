@@ -30,7 +30,7 @@ var subtitle = obj['regionName']+','+City_ValidCheck(obj['city'])+'-'+ ISP_Valid
 
 var ip = obj['query'];
 
-var description = 'IP：'+ obj['query']+'\n服务商：'+ ISP_ValidCheck(obj['org'],obj['isp'])+ '\n国家：'+obj['continent']+'，'+obj['country']+'\n地区：' +City_ValidCheck(obj['regionName'])+','+City_ValidCheck(obj['city'])+ '\n时区：'+ obj['timezone']+'\n经度：'+obj['lon']+'，'+'纬度：'+obj['lat'];
+var description = 'IP:'+ obj['query']+'\n服务商:'+ ISP_ValidCheck(obj['org'],obj['isp'])+ '\n国家:'+obj['continent']+'，'+obj['country']+'\n地区:' +City_ValidCheck(obj['regionName'])+','+City_ValidCheck(obj['city'])+ '\n时区:'+ obj['timezone']+'\n经度:'+obj['lon']+'，'+'纬度:'+obj['lat'];
 
 // console.log(title+'\n'+subtitle+'\n'+ip+'\n\n'+description)
 $done({title, subtitle, ip, description});
