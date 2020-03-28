@@ -1,7 +1,7 @@
 # >> 教育网
-DOMAIN,tv.byr.cn,教育网iPv6服务器
-DOMAIN,bt.byr.cn,教育网iPv6服务器
-DOMAIN,bt.neu6.edu.cn,教育网iPv6服务器
-DOMAIN,iptv.tsinghua.edu.cn,教育网iPv6服务器
-DOMAIN-SUFFIX,npupt.com,教育网iPv6服务器
-DOMAIN-SUFFIX,tjupt.org,教育网iPv6服务器
+DOMAIN,tv.byr.cn
+DOMAIN,bt.byr.cn
+DOMAIN,bt.neu6.edu.cn
+DOMAIN,iptv.tsinghua.edu.cn
+DOMAIN-SUFFIX,npupt.com
+DOMAIN-SUFFIX,tjupt.org
