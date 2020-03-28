@@ -3,6 +3,11 @@
 DOMAIN,avoscloud.com
 DOMAIN,in.appcenter.ms
 DOMAIN,app-product.cn-hongkong.log.aliyuncs.com
+DOMAIN,analyticsinsights-pa.googleapis.com
+DOMAIN,analyticsreporting.googleapis.com
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+
 DOMAIN-SUFFIX,yizhibo.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,nssurge.com
