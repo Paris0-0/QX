@@ -118,7 +118,6 @@ DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 # > NetEase
-DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163yun.com
