@@ -201,8 +201,8 @@ DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,socdm.com
 # > Now E
-DOMAIN-SUFFIX,nowe.com,流媒体策略
-DOMAIN-SUFFIX,nowestatic.com,流媒体策略
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowestatic.com
 # > PBS
 USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
