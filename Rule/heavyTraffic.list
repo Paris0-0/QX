@@ -1,7 +1,10 @@
 # >> 自定义，流媒体策略
 
 DOMAIN,tools.miku.ac
+DOMAIN,feedx.net
+DOMAIN,rsshub.app
 DOMAIN,fd4.videohelper.top
+
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,muscdn.com
