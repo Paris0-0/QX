@@ -6,6 +6,8 @@ DOMAIN,rsshub.app
 DOMAIN,fd4.videohelper.top
 DOMAIN,analyticsinsights-pa.googleapis.com
 DOMAIN,analyticsinsights-pa.googleapis.com
+DOMAIN,download.maxmind.com
+DOMAIN,welovejdb.xyz
 
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tiktokv.com
@@ -14,3 +16,5 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,savido.net
 
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,instagram

@@ -3,6 +3,8 @@
 DOMAIN,avoscloud.com
 DOMAIN,in.appcenter.ms
 DOMAIN,app-product.cn-hongkong.log.aliyuncs.com
+DOMAIN,s1.ax1x.com
+DOMAIN,blog.skk.moe
 
 DOMAIN-SUFFIX,yizhibo.com
 DOMAIN-SUFFIX,csdn.net
@@ -14,3 +16,6 @@ DOMAIN-SUFFIX,tvsou.com
 DOMAIN-SUFFIX,fuliapps.com
 DOMAIN-SUFFIX,xiangjiaoapps.com
 DOMAIN-SUFFIX,guoguoapps.com
+DOMAIN-SUFFIX,hibbba.com
+
+DOMAIN-KEYWORD,amazon
