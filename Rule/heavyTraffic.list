@@ -1,0 +1,27 @@
+# >> 自定义，流媒体策略
+
+DOMAIN,tools.miku.ac
+DOMAIN,feedx.net
+DOMAIN,rsshub.app
+DOMAIN,fd4.videohelper.top
+DOMAIN,analyticsinsights-pa.googleapis.com
+DOMAIN,analyticsinsights-pa.googleapis.com
+DOMAIN,download.maxmind.com
+DOMAIN,welovejdb.xyz
+DOMAIN,cxk.best
+DOMAIN,limbopro.xyz
+DOMAIN,mac-torrent-download.net
+DOMAIN,download.fosshub.com
+
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,savido.net
+DOMAIN-SUFFIX,qbittorrent.org
+
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,utorrent
+DOMAIN-KEYWORD,amazon
