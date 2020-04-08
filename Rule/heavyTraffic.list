@@ -10,7 +10,8 @@ DOMAIN,download.maxmind.com
 DOMAIN,welovejdb.xyz
 DOMAIN,cxk.best
 DOMAIN,limbopro.xyz
-DOMAINmac-torrent-download.net
+DOMAIN,mac-torrent-download.net
+DOMAIN,download.fosshub.com
 
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tiktokv.com
@@ -18,6 +19,9 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,savido.net
+DOMAIN-SUFFIX,qbittorrent.org
 
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,utorrent
+DOMAIN-KEYWORD,amazon

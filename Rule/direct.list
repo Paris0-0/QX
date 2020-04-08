@@ -7,6 +7,7 @@ DOMAIN,s1.ax1x.com
 DOMAIN,blog.skk.moe
 DOMAIN,imap.yandex.com
 
+
 DOMAIN-SUFFIX,yizhibo.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,nssurge.com
@@ -18,6 +19,5 @@ DOMAIN-SUFFIX,fuliapps.com
 DOMAIN-SUFFIX,xiangjiaoapps.com
 DOMAIN-SUFFIX,guoguoapps.com
 DOMAIN-SUFFIX,hibbba.com
-
-DOMAIN-KEYWORD,amazon
-DOMAIN-KEYWORD,utorrent
+DOMAIN-SUFFIX,z.cn
+DOMAIN-SUFFIX,amazon.cn
