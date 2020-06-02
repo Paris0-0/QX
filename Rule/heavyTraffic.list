@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxusercontent.com
 
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,instagram
