@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,storage.yandex.net
 DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,rmit.edu.au
 
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,instagram
