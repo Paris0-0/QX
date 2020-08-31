@@ -8,11 +8,10 @@ DOMAIN,blog.skk.moe
 DOMAIN,imap.yandex.com
 DOMAIN,lives.l.qq.com
 DOMAIN,livep.l.qq.com
-DOMAIN,fd6.videohelper.top
-DOMAIN,dsm6.videohelper.top
 DOMAIN,imap.hotmail.com
 DOMAIN,a.nuist.edu.cn
 
+DOMAIN-SUFFIX,videohelper.top
 DOMAIN-SUFFIX,yizhibo.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,nssurge.com
@@ -26,7 +25,6 @@ DOMAIN-SUFFIX,guoguoapps.com
 DOMAIN-SUFFIX,hibbba.com
 DOMAIN-SUFFIX,z.cn
 DOMAIN-SUFFIX,amazon.cn
-DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,pysmei.com
 DOMAIN-SUFFIX,cc.m.jd.com
 
