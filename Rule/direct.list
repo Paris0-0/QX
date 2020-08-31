@@ -10,8 +10,11 @@ DOMAIN,lives.l.qq.com
 DOMAIN,livep.l.qq.com
 DOMAIN,imap.hotmail.com
 DOMAIN,a.nuist.edu.cn
+DOMAIN,home.videohelper.top
+DOMAIN,dsm6.videohelper.top
+DOMAIN,fd6.videohelper.top
 
-DOMAIN-SUFFIX,videohelper.top
+
 DOMAIN-SUFFIX,yizhibo.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,nssurge.com
