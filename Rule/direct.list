@@ -1,5 +1,9 @@
 # >> 自定义，direct
 
+DOMAIN-KEYWORD,v6-only
+DOMAIN-KEYWORD,ipv6
+
+
 DOMAIN,avoscloud.com
 DOMAIN,in.appcenter.ms
 DOMAIN,app-product.cn-hongkong.log.aliyuncs.com
@@ -13,6 +17,8 @@ DOMAIN,a.nuist.edu.cn
 DOMAIN,home.videohelper.top
 DOMAIN,dsm6.videohelper.top
 DOMAIN,fd6.videohelper.top
+DOMAIN,test6.vyncke.org
+DOMAIN,transform-api.now.sh
 
 
 DOMAIN-SUFFIX,yizhibo.com
@@ -30,6 +36,7 @@ DOMAIN-SUFFIX,z.cn
 DOMAIN-SUFFIX,amazon.cn
 DOMAIN-SUFFIX,pysmei.com
 DOMAIN-SUFFIX,cc.m.jd.com
+DOMAIN-SUFFIX,8n1.org
 
 
 IP-CIDR,239.255.255.250/32
