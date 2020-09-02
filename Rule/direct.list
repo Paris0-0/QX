@@ -1,5 +1,9 @@
 # >> 自定义，direct
 
+# unbreak
+DOMAIN,lives.l.qq.com
+DOMAIN,livep.l.qq.com
+
 DOMAIN-KEYWORD,v6-only
 DOMAIN-KEYWORD,ipv6
 
@@ -10,8 +14,6 @@ DOMAIN,app-product.cn-hongkong.log.aliyuncs.com
 DOMAIN,s1.ax1x.com
 DOMAIN,blog.skk.moe
 DOMAIN,imap.yandex.com
-DOMAIN,lives.l.qq.com
-DOMAIN,livep.l.qq.com
 DOMAIN,imap.hotmail.com
 DOMAIN,a.nuist.edu.cn
 DOMAIN,home.videohelper.top
