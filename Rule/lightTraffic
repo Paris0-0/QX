@@ -1,0 +1,7 @@
+# >> 自定义，小流量策略
+
+DOMAIN,surgio.js.org
+DOMAIN,vercel.com
+
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,microsoftonline.com
