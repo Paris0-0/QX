@@ -1,10 +1,11 @@
 # >> 教育网
-DOMAIN,tv.byr.cn
 DOMAIN,bt.byr.cn
 DOMAIN,bt.neu6.edu.cn
 DOMAIN,iptv.tsinghua.edu.cn
 DOMAIN,iptv.pdsu.edu.cn
-# DOMAIN-SUFFIX,npupt.com
+DOMAIN,tv.byr.cn
+
 DOMAIN-SUFFIX,cnki.net
-DOMAIN-SUFFIX,tjupt.org
+;DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,nuist.edu.cn
+DOMAIN-SUFFIX,tjupt.org
