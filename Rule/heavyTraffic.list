@@ -8,9 +8,11 @@ DOMAIN,download.maxmind.com
 DOMAIN,fd4.videohelper.top
 DOMAIN,feedx.net
 DOMAIN,github.githubassets.com
+DOMAIN,jdsharedresourcescdn.azureedge.net
 DOMAIN,limbopro.xyz
 DOMAIN,mac-torrent-download.net
 DOMAIN,origincloud.xyz
+DOMAIN,r3.o.lencr.org
 DOMAIN,rmit.edu.au
 DOMAIN,rsshub.app
 DOMAIN,tools.miku.ac
@@ -18,6 +20,7 @@ DOMAIN,welovejdb.xyz
 
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,bbcollab.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
@@ -27,11 +30,16 @@ DOMAIN-SUFFIX,gmatclub.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,maven.org
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,rmit.edu.au
-DOMAIN-SUFFIX,savido.net
 DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,savido.net
 DOMAIN-SUFFIX,storage.yandex.net
+DOMAIN-SUFFIX,subhd.tv
+DOMAIN-SUFFIX,subhd.com
 
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,facebook

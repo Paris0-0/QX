@@ -1,7 +1,17 @@
 # >> 自定义，小流量策略
 
+DOMAIN,api.trakt.tv
 DOMAIN,surgio.js.org
+DOMAIN,www.yijingying.com
 
+DOMAIN-SUFFIX,firecore.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,goodnotes.com
+DOMAIN-SUFFIX,kerrylogistics.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,ooxx.be
+DOMAIN-SUFFIX,proxmox.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,vercel.com
