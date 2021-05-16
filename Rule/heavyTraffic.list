@@ -38,9 +38,10 @@ DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,rmit.edu.au
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,savido.net
-DOMAIN-SUFFIX,storage.yandex.net
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,subhd.com
+DOMAIN-SUFFIX,yadi.sk
+DOMAIN-SUFFIX,yandex.net
 
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,facebook
