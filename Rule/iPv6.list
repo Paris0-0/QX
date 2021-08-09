@@ -5,7 +5,5 @@ DOMAIN,iptv.tsinghua.edu.cn
 DOMAIN,iptv.pdsu.edu.cn
 DOMAIN,tv.byr.cn
 
-DOMAIN-SUFFIX,cnki.net
-;DOMAIN-SUFFIX,npupt.com
-DOMAIN-SUFFIX,nuist.edu.cn
+DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,tjupt.org
