@@ -7,3 +7,8 @@ DOMAIN,sugar.zhihu.com
 IP-CIDR,118.89.204.198/32
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 USER-AGENT,AVOS*
+
+# >> BetterTouchTool
+DOMAIN-SUFFIX,folivora.ai
+DOMAIN,updates.boastr.net
+DOMAIN,updates.folivora.ai
