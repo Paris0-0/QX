@@ -1,21 +1,40 @@
 # >> 自定义，小流量策略
 
 DOMAIN,api.trakt.tv
+DOMAIN,lens.l.google.com
+DOMAIN,stun.l.google.com
 DOMAIN,surgio.js.org
 DOMAIN,www.yijingying.com
 
+DOMAIN-SUFFIX,acwifi.net
+DOMAIN-SUFFIX,btbtt16.com
+DOMAIN-SUFFIX,cordc.net
 DOMAIN-SUFFIX,firecore.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,goodnotes.com
+DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,kerrylogistics.com
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,ntflc.com
 DOMAIN-SUFFIX,now.sh
 DOMAIN-SUFFIX,ooxx.be
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,proxmox.com
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,zdassets.com
-DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,xe.com
+DOMAIN-SUFFIX,yunpan1.com
+DOMAIN-SUFFIX,zaihuamall.com
+DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zendesk.com
+
+DOMAIN-KEYWORD,bereal
+
