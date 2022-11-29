@@ -31,8 +31,10 @@ DOMAIN-SUFFIX,gmatclub.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,imgur.io
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,maven.org
+DOMAIN-SUFFIX,odycdn.com
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,qbittorrent.org
@@ -41,11 +43,16 @@ DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,savido.net
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,subhd.com
+DOMAIN-SUFFIX,ufile.io
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yandex.net
 
+
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,filen
 DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,odysee
+DOMAIN-KEYWORD,teamviewer
 DOMAIN-KEYWORD,utorrent
